@@ -1,0 +1,46 @@
+
+      body {
+         font-family: 'Sen', sans-serif;
+        
+        }
+        
+        .profile{
+              width: 50%;
+              clip-path: circle();
+        }
+        .margin-top{
+              margin-top: 100px;
+        }
+
+        
+        .img-left{
+            margin-left: 330px;
+        }
+
+        .marginTop{
+              margin-top: 130px;
+        }
+
+        .bold{
+            font-weight: 700; 
+            font-size:25px; 
+        }
+
+        .bgblue{
+              background-color: #29a2f8;
+        }
+        .font-white{
+              color: white;
+              font-weight: 800;
+        }
+        
+        .font-W{
+              color: white;
+              font-weight: 700;
+        }
+
+        .shadow{
+            box-shadow: -12px 10px 5px 0px rgba(0,0,0,0.15);
+-webkit-box-shadow: -12px 10px 5px 0px rgba(0,0,0,0.15);
+-moz-box-shadow: -12px 10px 5px 0px rgba(0,0,0,0.15);
+        }
