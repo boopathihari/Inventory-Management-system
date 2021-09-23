@@ -1,6 +1,11 @@
 <!doctype html>
 <html lang="en">
 
+  
+<!--   This Can be Changed by Master Branch -->
+  
+  
+  5
 <head>
   <title>Inventory Project</title>
   <!-- Required meta tags -->
